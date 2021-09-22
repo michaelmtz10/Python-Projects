@@ -2,8 +2,8 @@
 
 
 <h3>Projects<b><h3>
-  <p>	&#8226;Webpage Generator</p>\
-  <p>	&#8226;Transfer App</p>
+  <p><h4>&#8226;Webpage Generator</h4></p>
+  <p><h4>&#8226;Transfer App</h4></p>
   
   
 <h3>Webpage Generator</h3>
